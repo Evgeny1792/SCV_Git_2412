@@ -50,5 +50,3 @@ You will see following output with above command:
 
 
 We have successfully pushed our local git changes to remote git repo.
-
-end end
